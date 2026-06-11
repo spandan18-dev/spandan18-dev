@@ -60,11 +60,6 @@ I'm a **Backend Developer** and **DevOps/Cloud enthusiast** currently pursuing *
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=spandan18-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/spandan18-dev)
-
----
 
 ## 📈 Activity Graph
 
