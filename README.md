@@ -1,6 +1,6 @@
 # Hey there, I'm Spandan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer;DevOps+%26+Cloud+Enthusiast;CSE+BTech+Student;Building+scalable+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=DevOps+%26+Cloud+Enthusiast+%F0%9F%9A%80;Backend+Developer;)](https://git.io/typing-svg)
 
 ---
 
@@ -18,44 +18,35 @@ I'm a **Backend Developer** and **DevOps/Cloud enthusiast** currently pursuing *
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,go,python" />
+</p>
 
-### **Backend & Frameworks**
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=express" />
+</p>
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,grafana,prometheus,githubactions,linux" />
+</p>
 
-### **Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,postman" />
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spandan18-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan18-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spandan18-dev&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan18-dev&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandan18-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandan18-dev&theme=tokyonight" />
 </p>
 
 ---
